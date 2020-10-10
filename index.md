@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
+## BC Crypto Family LLC
 
-You can use the [editor on GitHub](https://github.com/bccryptofamily/bccryptofamily.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+The future of blockchain is here and we are excited to develop new code that will help different communities around the world. Our goal is to create solid projects that will give anyone a fighting chance to prosper in this world that is fille with greed. The new age is here whether governments like it or not. 
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
